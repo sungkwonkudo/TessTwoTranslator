@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wyki/AndroidStudioProjects/TessTwoTranslator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="577ebe824dc0769593f69e4fd7a517a366fab67d">
+        <dex dex="/home/wyki/AndroidStudioProjects/TessTwoTranslator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e17665ec07734ad58ee1223f2716a5b1fb74b28c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wyki/AndroidStudioProjects/TessTwoTranslator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/wyki/AndroidStudioProjects/TessTwoTranslator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_10b798167134f6e7503899ac9a0aab5459c7fe8b/classes.dex" />
+    </item>
+
+</items>

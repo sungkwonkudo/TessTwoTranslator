@@ -8,21 +8,30 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="hello_world"></TextView>
+        android:text="@string/title"
+        android:textAlignment="center"></TextView>
+
+    <ImageView
+        android:id="@+id/img_camera"
+        android:contentDescription="image_cd_camera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TextView"
+        android:textAlignment="center" />
+
     <Button
         android:id="@+id/btn_camera"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Translate"
+        android:text="@string/btn_translate"
         tools:context="com.tutsplus.tesstwoimport.MainActivity" />
-    <ImageView
-        android:id="@+id/img_camera"
-        android:contentDescription="image_cd_camera"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"/>
-
 
 
 </LinearLayout>
